@@ -8,4 +8,11 @@ Next to connect to the instance using ssh we used a ssh client called Mobaxterm.
 
 Then we developed our WordPress site. 
 
-Inside the, Website Link - Next Level Masters.pdf we have included the link of our website.  
+Inside the, Website Link - Next Level Masters.pdf we have included the link of our website. 
+
+The important files in our project are;
+
+Document - Group Project (Cloud Infrastructure Design).pdf
+Powerpoint - cloud infrastructure powerpoint.pdf
+Website Link - Website Link - Next Level Masters.pdf
+Video Link - 
