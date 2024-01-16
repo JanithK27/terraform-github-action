@@ -18,4 +18,6 @@ Powerpoint - cloud infrastructure powerpoint.pdf
 
 Website Link - Website Link - Next Level Masters.pdf
 
-Video Link - 
+Video Link - https://drive.google.com/drive/folders/1qDoWCkxd_OJApi76ybPet-z9QvNeTlJ0?usp=sharing
+
+
