@@ -1,4 +1,4 @@
-# WordPress Website Link
+# Next Level Masters - Cloud Infrastructure - Group Project
 
 In our project we used aws to create a virtual computer. This will be able to install a web server that handles http requests. 
 
